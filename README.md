@@ -2,7 +2,7 @@
 
 Esquemático <br />
 <p align="center">
-<embed src= "https://github.com/lorenzoppx/DIMMER_TCA785/blob/main/Esquematico.PDF" width= "500" height= "375">
+<embed src= "https://github.com/lorenzoppx/DIMMER_TCA785/blob/main/Esquematico.png" width= "500" height= "375">
 <p />
 Visualização 3D <br />
 <p align="center">
